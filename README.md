@@ -5,3 +5,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rrickgauer&repo=song-requests)](https://github.com/anuraghazra/github-readme-stats)
 
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rrickgauer&show_icons=true)
+
+
+
