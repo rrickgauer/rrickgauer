@@ -7,15 +7,11 @@
 
 This is the place where I opensource stuff and break things :rofl:
 
-- 🔭 I’m currently working on something cool :wink:
+- 🔭 I’m currently working at [Premier International](https://www.premier-international.com/)
 - 🌱 I’m currently learning C++ Multithreading
-- 💬 Ask me about anything related to C++, COBOL, Python, PHP
+- 💬 Ask me about anything related to C++
 - 📫 How to reach me: [www.RyanRickgauer.com](https://www.ryanrickgauer.com/resume/index.html)
-- ⚡ Fun fact: I :heart: :dog:s
-
-<br>
-
-<img src="console-readme-img.png">
+- ⚡ Fun fact: I prefer spaces over tabs.
 
 ---
 
