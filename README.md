@@ -1,3 +1,3 @@
 
-my name's ryan and I hate programming...
+https://www.ryanrickgauer.com/
 
